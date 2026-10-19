@@ -2,7 +2,13 @@
 
 <img src="assets/banner.svg" alt="Adarsh AS - Ethical Hacker banner" width="100%"/>
 
+<br/>
+<br/>
+<br/>
+
 <img src="assets/terminal.svg" alt="terminal intro" width="85%"/>
+
+<br/>
 
 </div>
 
@@ -55,7 +61,7 @@ I learn how vulnerabilities are exploited, then build the detections that catch 
 
 | | |
 |---|---|
-| 🏅 **OCSP** | Offenso Certified Security Professional, Offenso Hacker Academy |
+| 🏅 **OCSP** (in progress) | Offenso Certified Security Professional, Offenso Hacker Academy |
 
 <img src="assets/divider.svg" width="100%"/>
 
