@@ -14,7 +14,7 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-## `> cat about_me.md`
+## `> about_me.md`
 
 I'm **Adarsh AS**, a **Junior Security Analyst** from Thiruvananthapuram, India, focused on **VAPT** and **threat detection**.
 I combine **offensive testing** with **defensive monitoring**.
