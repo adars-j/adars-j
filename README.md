@@ -61,7 +61,7 @@ I learn how vulnerabilities are exploited, then build the detections that catch 
 
 | | |
 |---|---|
-| 🏅 **OCSP** (in progress) | Offenso Certified Security Professional, Offenso Hacker Academy |
+| 🏅 **OCSP** | Offenso Certified Security Professional, Offenso Hacker Academy |
 
 <img src="assets/divider.svg" width="100%"/>
 
