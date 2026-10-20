@@ -39,7 +39,7 @@ I learn how vulnerabilities are exploited, then build the detections that catch 
 
 <img src="assets/divider.svg" width="100%"/>
 
-## `> cat ~/projects/*`
+## `> ~/projects/*`
 
 ### 🛡️ Web Application Attack Simulation & Detection Lab (Splunk Enterprise) · Sep 2026
 - Simulated **SQL injection, XSS, LFI, brute-force** and blended attacks against a deliberately vulnerable web app and an Active Directory environment.
@@ -57,7 +57,7 @@ I learn how vulnerabilities are exploited, then build the detections that catch 
 
 <img src="assets/divider.svg" width="100%"/>
 
-## `> cat certifications.txt`
+## `> certifications.txt`
 
 | | |
 |---|---|
